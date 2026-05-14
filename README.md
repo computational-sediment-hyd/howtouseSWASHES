@@ -2,6 +2,20 @@
 # Getting Started with **SWASHES** (Shallow Water Analytic Solutions for Hydraulic and Environmental Studies)
 
 
+  - [What is SWASHES? (Claude)](#what-is-swashes-claude)
+    - [Background and Purpose](#background-and-purpose)
+    - [Main Contents](#main-contents)
+    - [Features](#features)
+    - [Use Cases](#use-cases)
+  - [Setting Up SWASHES](#setting-up-swashes)
+  - [List of Analytic Solutions in SWASHES](#list-of-analytic-solutions-in-swashes)
+  - [Running SWASHES](#running-swashes)
+    - [Overview of Arguments](#overview-of-arguments)
+    - [Sample Case 1: "Dressler's dam break with friction"](#sample-case-1-dresslers-dam-break-with-friction)
+    - [Sample Case 2: "Bedload (Exner) Meyer-Peter \& Müller eq."](#sample-case-2-bedload-exner-meyer-peter--müller-eq)
+  - [Summary](#summary)
+
+
 ## What is SWASHES? (Claude)
 
 
